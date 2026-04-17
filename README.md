@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Deepshikha Srivastava Erasmus Mundus Scholar in Applied Ecohydrology.<br>Passionate about Urban stormwater modelling.<br>Python, GIS, SWMM, MATLAB.<br>Currently exploring the intersection of hydrology, data science, and sustainable water management.
+I am Deepshikha Srivastava Erasmus Mundus Scholar in Applied Ecohydrology.<br>Passionate about Urban stormwater modelling and Flood risk.<br>Python, GIS, SWMM, MATLAB.<br>Currently exploring the intersection of hydrology, data science, and sustainable water management.
 
 
 ## 🌐 Socials:
